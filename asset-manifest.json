@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Artificial-Intelligence/static/css/main.f97c2770.chunk.css",
+    "main.js": "/Artificial-Intelligence/static/js/main.f9910edf.chunk.js",
+    "main.js.map": "/Artificial-Intelligence/static/js/main.f9910edf.chunk.js.map",
+    "runtime-main.js": "/Artificial-Intelligence/static/js/runtime-main.3ff41f9c.js",
+    "runtime-main.js.map": "/Artificial-Intelligence/static/js/runtime-main.3ff41f9c.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/Artificial-Intelligence/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.1eab1359.chunk.js": "/Artificial-Intelligence/static/js/2.1eab1359.chunk.js",
+    "static/js/2.1eab1359.chunk.js.map": "/Artificial-Intelligence/static/js/2.1eab1359.chunk.js.map",
+    "index.html": "/Artificial-Intelligence/index.html",
+    "precache-manifest.6758e6b6269ebdef384b282195e99c27.js": "/Artificial-Intelligence/precache-manifest.6758e6b6269ebdef384b282195e99c27.js",
+    "service-worker.js": "/Artificial-Intelligence/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/Artificial-Intelligence/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.f97c2770.chunk.css.map": "/Artificial-Intelligence/static/css/main.f97c2770.chunk.css.map",
+    "static/js/2.1eab1359.chunk.js.LICENSE.txt": "/Artificial-Intelligence/static/js/2.1eab1359.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ff41f9c.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.1eab1359.chunk.js",
+    "static/css/main.f97c2770.chunk.css",
+    "static/js/main.f9910edf.chunk.js"
+  ]
+}
